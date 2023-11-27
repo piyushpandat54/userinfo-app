@@ -1,6 +1,6 @@
-# userinfo
+# User Information App
 
-A new Flutter project.
+A Flutter framework has been used to develop this app. Users are able to enter their data and also update and delete it. When a user pushes data, it can dump it into a SQLite database, so I used a SQLite database to store the data, so users can insert, update, or delete data whenever they want.
 
 ## Getting Started
 
